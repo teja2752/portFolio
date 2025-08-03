@@ -206,7 +206,7 @@ const Home = () => {
 
         {/* Social Icons */}
         <div className="social-icons">
-          <a href="https://github.com/tejasgadhave" target="_blank" rel="noopener noreferrer"><FaGithub /></a>
+          <a href="https://github.com/teja2752" target="_blank" rel="noopener noreferrer"><FaGithub /></a>
           <a href="https://linkedin.com/in/tejasgadhave" target="_blank" rel="noopener noreferrer"><FaLinkedin /></a>
           <a href="mailto:tejasgadhave@example.com"><FaEnvelope /></a>
         </div>
